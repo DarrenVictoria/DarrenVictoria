@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects related to my BSc in Software Engineering<br>🌱 I’m currently learning React<br>💬 Feel free to ask me about Anything<br>⚡ Fun fact is that coding contains 700+ languages
+🔭 I’m currently working as a UI/UX Developer and meanwhile in the final year of my BSc(Hons) in Software Engineering<br>🌱 I’m currently mastering React<br>💬 Feel free to ask me about Anything<br>⚡ Fun fact is that coding contains 700+ languages
 
 
 ## 🌐 Socials:
